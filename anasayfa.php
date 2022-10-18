@@ -111,6 +111,7 @@
                      $link = "ushaq-ayakkabisi";
                   }
                   switch($goods[$key]["urunTuru"]) {
+                     
                      case "erkek":
                         $klasor = "Erkek";
                         $type  = "Erkek Ayakkabısı";
